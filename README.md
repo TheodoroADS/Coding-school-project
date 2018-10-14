@@ -5,3 +5,5 @@ Here are some things you need to know:
 - The game map was made with a tool named TILED and you'll need it to run the game. You can download TILED with this addres(unless it's outdated) :https://www.mapeditor.org/download.html
 - To develop this game, we used copyright-free material and tutorials. That is why we insisted in making this game copyright free aswell.
 - This game runs in different speeds depending on which computer you are running it on. Sorry, we don't know how to fix it. 
+- You'll also need the ptmx and pygame libraries. pygame: https://www.pygame.org/news   ptmx: https://github.com/linux-man/ptmx
+- To run the game, you'll need to use a python compiler and run the main4t file.
